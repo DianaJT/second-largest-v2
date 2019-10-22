@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import secondLargest from './algorithmA';
 import afterLargest from './algorithmB';
 
